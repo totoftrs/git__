@@ -4,6 +4,25 @@ h1 {
     font-weight: bold;
 }
 
+h2 {
+    text-decoration: line-through;
+    margin-bottom: 20px;
+}
+
+div {
+    width: 500px;
+    padding: 10px;
+    background-color: gray;
+}
+
+b {
+    color: red;
+}
+
+i {
+    text-decoration: underline;
+}
+
 .third {
     font-weight: bold;
 }

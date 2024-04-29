@@ -16,8 +16,12 @@ div {
     margin-bottom: 10px;
 }
 
+.f-div {
+    border: 2px solid black;
+}
+
 b {
-    color: red;
+    color: orange;
 }
 
 i {
